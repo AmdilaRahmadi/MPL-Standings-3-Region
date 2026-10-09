@@ -42,4 +42,4 @@ This is a fan-made portfolio project inspired by MPL. It is not affiliated with 
 - Added MPL MY S18
 - Update H2H Formula
 ### 2026-10-09
-- Added Play offs Chance Simulation (Using Monte Carlo with 1000 simulations)
+- Added ID Play offs Chance Simulation (Using Monte Carlo with 1000 simulations)
