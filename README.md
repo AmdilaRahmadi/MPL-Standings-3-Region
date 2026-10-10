@@ -43,3 +43,5 @@ This is a fan-made portfolio project inspired by MPL. It is not affiliated with 
 - Update H2H Formula
 ### 2026-10-09
 - Added ID Play offs Chance Simulation (Using Monte Carlo with 1000 simulations)
+### 2026-10-10
+- Fixed ID Play offs Chance Simulation (32 Matches)
