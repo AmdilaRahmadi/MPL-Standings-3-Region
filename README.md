@@ -45,3 +45,4 @@ This is a fan-made portfolio project inspired by MPL. It is not affiliated with 
 - Added ID Play offs Chance Simulation (Using Monte Carlo with 1000 simulations)
 ### 2026-10-10
 - Fixed ID Play offs Chance Simulation (32 Matches)
+- Add Macro-type File with Calculate Button
